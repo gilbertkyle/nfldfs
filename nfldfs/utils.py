@@ -29,7 +29,7 @@ def game_parameters_validator(dfs_site, season_from, season_to, week_from, week_
 
     config = {'dk': [2014, 2015, 2016, 2017, 2018, 2019],
               'fd': [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019],
-              'yh': [2016, 2017, 2018, 2019]}
+              'yh': [2016, 2017, 2018, 2019, 2020]}
 
     valid_season_numbers = config.get(dfs_site)
 
